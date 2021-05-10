@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fiord\\Documents\\GitHub\\nanana\\nanana\\nanana.csproj": {}
+    "C:\\Users\\fiord\\Documents\\GitHub\\nanana\\nanagilang.github.io\\nanana\\nanana.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fiord\\Documents\\GitHub\\nanana\\nanana\\nanana.csproj": {
+    "C:\\Users\\fiord\\Documents\\GitHub\\nanana\\nanagilang.github.io\\nanana\\nanana.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fiord\\Documents\\GitHub\\nanana\\nanana\\nanana.csproj",
+        "projectUniqueName": "C:\\Users\\fiord\\Documents\\GitHub\\nanana\\nanagilang.github.io\\nanana\\nanana.csproj",
         "projectName": "nanana",
-        "projectPath": "C:\\Users\\fiord\\Documents\\GitHub\\nanana\\nanana\\nanana.csproj",
+        "projectPath": "C:\\Users\\fiord\\Documents\\GitHub\\nanana\\nanagilang.github.io\\nanana\\nanana.csproj",
         "packagesPath": "C:\\Users\\fiord\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fiord\\Documents\\GitHub\\nanana\\nanana\\obj\\",
+        "outputPath": "C:\\Users\\fiord\\Documents\\GitHub\\nanana\\nanagilang.github.io\\nanana\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
